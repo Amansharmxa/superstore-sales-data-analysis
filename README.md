@@ -42,6 +42,10 @@ This project presents an end-to-end data analytics workflow using the global Sup
   * Line Chart showing monthly revenue fluctuations throughout the year.
   * Interactive slicers enabling dynamic filtering by order year.
 
+# 📊 Dashboard Preview
+<img width="1330" height="813" alt="Screenshot 2026-10-27 104424" src="https://github.com/user-attachments/assets/972d6f2b-6c50-4609-a7f9-5e53fbe6d024" />
+
+
 ## 🚀 Key Insights & Learnings
 * Sales show a consistent upward trajectory from 2015 to 2018, with peak revenue months observed towards the end of the calendar year (November/December).
 * A small segment of high-spending customers significantly drives a major portion of the average order value.
