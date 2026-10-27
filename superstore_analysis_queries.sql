@@ -24,7 +24,7 @@ CREATE TABLE superstore_sales (
 );
 
 COPY superstore_sales 
-FROM 'C:\cleaned_train_data.csv' 
+FROM 'C:\superstore_analysis_queries.csv' 
 WITH (FORMAT csv, HEADER true, DELIMITER ',');
 
 select * from superstore_sales;
